@@ -1,22 +1,6 @@
-# Virtual environment
 .venv/
 venv/
-env/
-
-# Python cache
 __pycache__/
-*.py[cod]
-*$py.class
-*.so
-
-# Large data files (download separately)
+*.pyc
 *.lz4
 *.dat
-
-# IDE
-.vscode/
-.idea/
-
-# OS
-.DS_Store
-Thumbs.db
