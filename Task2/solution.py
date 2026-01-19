@@ -72,7 +72,7 @@ def task1(search: dict, data: str) -> str:
     search_pairs = [(column_indexes[k], str(v)) for k, v in search.items()]
     num_columns = len(column_indexes)
     
-    # Iterowanie linia po linii bez ładowania całości do pamięci
+    # Iteruj linia po linii bez ładowania całości do pamięci
     pos = data_start
     data_len = len(data)
     
