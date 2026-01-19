@@ -30,6 +30,9 @@ Taski/
 pip install lz4
 ```
 
+### ⚠️ Plik danych
+Plik `find_match_average_v2.dat.lz4` należy pobrać z linku podanego w zadaniu rekrutacyjnym i umieścić w folderze `Task1/`.
+
 ### Uruchomienie testów
 ```bash
 cd Task1
