@@ -1,3 +1,5 @@
+# WYNIK: 666172.0
+
 _header_cache = {}
 
 
